@@ -1,1 +1,1 @@
-# couchbase_analytics_jupyter
+# Couchbase Analytics Jupyter Notebook
