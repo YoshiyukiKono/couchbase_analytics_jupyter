@@ -1,4 +1,4 @@
-
+#! /bin/bash
 
 sudo yum install -y gcc gcc-c++ python3-devel python3-pip cmake
 sudo yum install -y openssl-devel
