@@ -7,3 +7,5 @@ sudo python3 -m pip install couchbase
 
 sudo yum install -y git
 
+pip3 install jupyter
+pip3 install pandas
